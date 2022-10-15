@@ -33,7 +33,7 @@
 
   <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=gunjankuthe111&show_icons=true&locale=en" alt="gunjankuthe111" /></p>
 
-
+<img align="right" width="520px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/c-s-d-s.gif" />
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="gunjankuthe111" /></p>
 
