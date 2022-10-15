@@ -30,10 +30,10 @@
 
   <p><img  width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" /></p>
 
-<img align="right" width="520px" height="396px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/c-s-d-s.gif" />
 
-  <p>&nbsp;<img align="left" width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=gunjankuthe111&show_icons=true&locale=en" alt="gunjankuthe111" /></p>
+  <p>&nbsp;<img align="left" width="450px"  src="https://github-readme-stats.vercel.app/api?username=gunjankuthe111&show_icons=true&locale=en" alt="gunjankuthe111" /></p>
 
 
-<p><img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="gunjankuthe111" /></p>
+
+<p><img align="left" width="450px"  src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="gunjankuthe111" /></p>
 
