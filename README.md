@@ -1,6 +1,10 @@
 ![logo](https://github.com/gunjankuthe111/gunjankuthe111/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Gunjan Kuthe</h1>
-<h3 align="center">Professional MERN Stack Web Developer</h3>
+
+<p>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Professional+Full+Stack+Developer;Professional+MERN+Stack+Developer;&right=true"/>
+</p>
+
 
 <img align="right" width="450px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/desk.gif" />
 
