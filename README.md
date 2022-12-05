@@ -13,8 +13,6 @@ Let's build together something unique.</p>
 
 - 🌱 I’m currently learning **ReactJS | NodeJS | ExpressJS | MongoDB**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://gunjankuthe111.github.io)
-
 - 💬 Ask me about **Data Structures and Alogorithms**
 
 - 📫 How to reach me **gkuthe1997@gmail.com**
@@ -26,6 +24,9 @@ Let's build together something unique.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gunjankuthe/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="http://www.linkedin.com/in/gunjankuthe" height="30" width="100" /></a>
+</p>
+<p align="left">
+<a href="https://gunjankuthe111.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-PORTFOLIO-blue" alt="http://www.linkedin.com/in/gunjankuthe" height="30" width="100" /></a>
 </p>
 
 
