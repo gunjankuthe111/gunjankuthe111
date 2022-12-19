@@ -21,6 +21,11 @@ Let's build together something unique.</p>
 
 - ⚡ Fun fact **Electrical Engineer**
 
+### ⚡ My Motivation & Interest's :-
+* Aspiring MERN Developer
+* Problem-Solving
+* Travel
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gunjankuthe/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="http://www.linkedin.com/in/gunjankuthe" height="30" width="100" /></a>
