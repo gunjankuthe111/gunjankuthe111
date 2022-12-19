@@ -53,12 +53,19 @@ Let's build together something unique.</p>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" /></p>
 
 
-  <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=gunjankuthe111&show_icons=true&locale=en" alt="gunjankuthe111" /></p>
-
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="gunjankuthe111" /></p>
-
+<h2>:clipboard: Github Stats</h2>
+<div style="display: flex">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
+  
+  <img align="right" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="Gunjan Kuthe" />
+  
+  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=gunjankuthe111" alt="gunjankuthe111" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjankuthe111&theme=default" alt="profile"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gunjankuthe111&show_icons=true&locale=en" alt="Gunjan Kuthe" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjankuthe111&theme=default" alt="repolang"/>
+   
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjankuthe111&theme=default" alt="toplang" />
+ 
+</div>
