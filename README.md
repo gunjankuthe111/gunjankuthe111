@@ -8,7 +8,7 @@
 
 <p>A full-stack web-developer with a specialization in MERN stack. Excellent teamwork, self-motivated and curious, with a keen interest in building user-centric products.
 Let's build together something unique.</p>
-<img align="right" width="450px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/c-s-d-s.gif?raw=true" />
+<img align="right" width="450px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/table.gif?raw=true"  alt="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/logos/logoo.gif?raw=true"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjankuthe111&label=Profile%20views&color=0e75b6&style=flat" alt="gunjankuthe111" /> </p>
 
@@ -64,14 +64,11 @@ Let's build together something unique.</p>
 <h2>:clipboard: Github Stats</h2>
 <div style="display: flex">
   <img  height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
-  
   <img align="right" width="450px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="Gunjan Kuthe" />
-  
   <img height="200px" src="https://github-profile-trophy.vercel.app/?username=gunjankuthe111" alt="gunjankuthe111" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjankuthe111&theme=default" alt="profile"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gunjankuthe111&show_icons=true&locale=en" alt="Gunjan Kuthe" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjankuthe111&theme=default" alt="repolang"/>
-   
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunjankuthe111&theme=default" alt="repolang"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gunjankuthe111&theme=default" alt="toplang" />
  
 </div>
