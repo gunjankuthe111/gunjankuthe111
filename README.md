@@ -7,7 +7,7 @@
 
 <p>A full-stack web-developer with a specialization in MERN stack. Excellent teamwork, self-motivated and curious, with a keen interest in building user-centric products.
 Let's build together something unique.</p>
-<img align="right" width="450px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/desk.gif" />
+<img align="right" width="450px" src="https://github.com/gunjankuthe111/gunjankuthe111/blob/main/c-s-d-s.gif?raw=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjankuthe111&label=Profile%20views&color=0e75b6&style=flat" alt="gunjankuthe111" /> </p>
 
