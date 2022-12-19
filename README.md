@@ -1,4 +1,5 @@
 ![logo](https://github.com/gunjankuthe111/gunjankuthe111/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Gunjan Kuthe</h1>
 
 <p>
@@ -22,9 +23,10 @@ Let's build together something unique.</p>
 - ⚡ Fun fact **Electrical Engineer**
 
 ### ⚡ My Motivation & Interest's :-
-* Aspiring MERN Developer
-* Problem-Solving
-* Travel
+
+- Aspiring MERN Developer
+- Problem-Solving
+- Travel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +35,6 @@ Let's build together something unique.</p>
 <p align="left">
 <a href="https://gunjankuthe111.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-PORTFOLIO-blue" alt="http://www.linkedin.com/in/gunjankuthe" height="30" width="100" /></a>
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex;">
@@ -60,7 +60,6 @@ Let's build together something unique.</p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
-
 
 <h2>:clipboard: Github Stats</h2>
 <div style="display: flex">
