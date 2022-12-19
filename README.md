@@ -61,7 +61,7 @@ Let's build together something unique.</p>
 <div style="display: flex">
   <img  height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
   
-  <img align="right" width="500px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="Gunjan Kuthe" />
+  <img align="right" width="450px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="Gunjan Kuthe" />
   
   <img height="200px" src="https://github-profile-trophy.vercel.app/?username=gunjankuthe111" alt="gunjankuthe111" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjankuthe111&theme=default" alt="profile"/>
