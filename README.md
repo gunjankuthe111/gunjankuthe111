@@ -57,7 +57,7 @@ Let's build together something unique.</p>
 
 <h2>:clipboard: Github Stats</h2>
 <div style="display: flex">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
   
   <img align="right" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="Gunjan Kuthe" />
   
