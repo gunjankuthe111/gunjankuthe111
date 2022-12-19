@@ -59,7 +59,7 @@ Let's build together something unique.</p>
 
 <h2>:clipboard: Github Stats</h2>
 <div style="display: flex">
-  <img width="37%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
+  <img  height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjankuthe111&show_icons=true&locale=en&layout=compact" alt="gunjankuthe111" />
   
   <img align="right" width="500px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjankuthe111&" alt="Gunjan Kuthe" />
   
